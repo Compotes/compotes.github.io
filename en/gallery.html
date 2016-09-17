@@ -1,0 +1,56 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Compotes</title>
+    <script src="/js/jquery-3.1.0.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
+    <script src="/galleria/galleria-1.4.5.min.js"></script>
+
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/main.css">
+    <style>
+        .galleria {
+            max-width: 100%;
+            height: 700px;
+            background: rgba(0,0,0,0);
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <nav class="nav navbar-inverse">
+        <ul class="nav navbar-nav navbar-left">
+            <li><a href="/en/index.html">Home</a></li>
+            <li><a href="/en/about.html">About</a></li>
+            <li><a href="/en/gallery.html">Gallery</a></li>
+        </ul>
+
+        <ul class="nav navbar-nav navbar-right">
+            <li><a href="/sk/gallery.html">SK</a></li>
+        </ul>
+    </nav>
+    <div class="galleria">
+    </div>
+</div>
+</body>
+<script>
+    $(function () {
+        $.ajax({
+            url: "/img",
+            success: function(data){
+                $(data).find("a:contains(_img)").each(function() {
+                    var image = $(this).attr("href");
+                    image = "<img src='/img/" + image + "'>";
+                    $(".galleria").append(image);
+                });
+                Galleria.loadTheme('/galleria/themes/classic/galleria.classic.min.js');
+                Galleria.run('.galleria');
+            }
+        });
+    });
+
+</script>
+</html>
