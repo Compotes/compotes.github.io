@@ -35,23 +35,14 @@
         </ul>
     </nav>
     <div class="galleria">
+        <img src="/img/1_img.png">
     </div>
 </div>
 </body>
 <script>
     $(function () {
-        $.ajax({
-            url: "/img",
-            success: function(data){
-                $(data).find("a:contains(_img)").each(function() {
-                    var image = $(this).attr("href");
-                    image = "<img src='/img/" + image + "'>";
-                    $(".galleria").append(image);
-                });
-                Galleria.loadTheme('/galleria/themes/classic/galleria.classic.min.js');
-                Galleria.run('.galleria');
-            }
-        });
+        Galleria.loadTheme('/galleria/themes/classic/galleria.classic.min.js');
+        Galleria.run('.galleria');
     });
 </script>
 </html>
