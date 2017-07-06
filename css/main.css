@@ -13,9 +13,12 @@ body {
     margin-bottom: 10px;
 }
 
+.main-sponsors {
+    white-space: nowrap;
+}
+
 .gold-sponsors > img {
-    width: 50%;
-    margin-left: 10px;
+    width: 33%;
 }
 
 .sponsors > a {
