@@ -13,12 +13,22 @@ body {
     margin-bottom: 10px;
 }
 
-.main-sponsors {
-    white-space: nowrap;
+.main-sponsors > img {
+    float: left;
 }
 
 .gold-sponsors > img {
-    width: 33%;
+    max-width: 45%;
+    background: white;
+    margin-bottom: 5px;
+}
+
+.r1r {
+    min-height: 195px;
+}
+
+.r2r {
+    min-height: 120px;
 }
 
 .sponsors > a {
