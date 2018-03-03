@@ -50,9 +50,8 @@ body {
 }
 
 .robot-text {
-    float: right;
-    max-width: 45%;
-    margin-left: 10px;
+    float: left;
+    width: 50%;
 }
 
 .robot-div > img {
