@@ -1,0 +1,13 @@
+digraph "xiAPIplus_Image::GetPixelsArraySize"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node46 [label="xiAPIplus_Image::GetPixels\lArraySize",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node46 -> Node47 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node47 [label="xiAPIplus_Image::GetPadding_X",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxi_a_p_iplus___image.html#ad287c354fd56bbd4232e1b8b1b079ad8"];
+  Node46 -> Node48 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node48 [label="xiAPIplus_Image::GetBytes\lPerPixel",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxi_a_p_iplus___image.html#ac52911497a8a3f126515b2f2c76e0ac1"];
+  Node48 -> Node49 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node49 [label="ReportException",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$xi_api_plus_ocv_8cpp.html#ac977696328796b16af4d36af03181d98"];
+}

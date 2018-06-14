@@ -1,0 +1,18 @@
+digraph "xiAPIplus_Camera::StopAcquisition"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1754 [label="xiAPIplus_Camera::StopAcquisition",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1754 -> Node1755 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1755 [label="stop",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_camera_8cpp.html#a8c528baf37154d347366083f0f816846"];
+  Node1755 -> Node1756 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1756 [label="debugImage",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_camera_8cpp.html#ab36e084c878ec0c7376455f662696f26"];
+  Node1756 -> Node1757 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1757 [label="update_camera",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_camera_8hpp.html#a2f916abf2339aab7843a1bee720ddb1d"];
+  Node1757 -> Node1758 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1758 [label="init_camera",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_camera_8hpp.html#a0a1f7ec3c64eb8634f2f2a80e46405ee"];
+  Node1758 -> Node1759 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1759 [label="main",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97"];
+  Node1755 -> Node1757 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

@@ -1,0 +1,21 @@
+digraph "xiAPIplus_Image::GetPixels"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node38 [label="xiAPIplus_Image::GetPixels",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node38 -> Node39 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node39 [label="xiAPIplusCameraOcv\l::ConvertOcvIpl",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxi_a_p_iplus_camera_ocv.html#a63d12d5d6cce9298f8e715324afab177"];
+  Node39 -> Node40 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node40 [label="xiAPIplusCameraOcv\l::GetNextImageOcvIpl",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxi_a_p_iplus_camera_ocv.html#ac872482532b2b88aac0bcf521fe130bd"];
+  Node40 -> Node41 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node41 [label="xiAPIplusCameraOcv\l::GetNextImageOcvMat",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxi_a_p_iplus_camera_ocv.html#a06d552e2d59b6c2a1df19f727b475be1"];
+  Node41 -> Node42 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node42 [label="update_camera",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_camera_8hpp.html#a2f916abf2339aab7843a1bee720ddb1d"];
+  Node42 -> Node43 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node43 [label="init_camera",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_camera_8hpp.html#a0a1f7ec3c64eb8634f2f2a80e46405ee"];
+  Node43 -> Node44 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node44 [label="main",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97"];
+  Node39 -> Node45 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node45 [label="xiAPIplusCameraOcv\l::ConvertOcvMat",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxi_a_p_iplus_camera_ocv.html#a121aee8011fbb7822cd224c3aa776378"];
+}

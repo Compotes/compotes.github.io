@@ -1,0 +1,11 @@
+digraph "xiAPIplus_ImageProcessing::~xiAPIplus_ImageProcessing"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node4 [label="xiAPIplus_ImageProcessing\l::~xiAPIplus_ImageProcessing",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node4 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="xiAPIplus_ImageProcessing\l::CheckResult",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxi_a_p_iplus___image_processing.html#a56194582139d05a621b74dbd6016e012"];
+  Node5 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="ReportException",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$xi_api_plus_ocv_8cpp.html#ac977696328796b16af4d36af03181d98"];
+}

@@ -1,0 +1,13 @@
+digraph "RTIMUBNO055::IMURead"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node15 [label="RTIMUBNO055::IMURead",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node15 -> Node16 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node16 [label="update_compass",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_compass_8hpp.html#a464c3e13e8fe37ae76144fc4450985e7"];
+  Node16 -> Node17 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node17 [label="init_compass",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_compass_8hpp.html#af3422b44dd53d24518dfe42a6a485add"];
+  Node17 -> Node18 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node18 [label="main",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97"];
+}

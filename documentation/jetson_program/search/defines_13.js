@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['xi_5fprm_5fapi_5fprogress_5fcallback',['XI_PRM_API_PROGRESS_CALLBACK',['../xi_api_plus_ocv_8hpp.html#a903a0bfda42e66ea0e802f052a7351f9',1,'xiApiPlusOcv.hpp']]],
+  ['xi_5fprm_5fcam_5fenum_5fgolden_5fenabled',['XI_PRM_CAM_ENUM_GOLDEN_ENABLED',['../xi_api_plus_ocv_8hpp.html#a4d673e77db29b2c182394740e29e58cf',1,'xiApiPlusOcv.hpp']]],
+  ['xi_5fprm_5fcam_5fsensor_5finit_5fdisabled',['XI_PRM_CAM_SENSOR_INIT_DISABLED',['../xi_api_plus_ocv_8hpp.html#a580d0b7089d5aa51fdb636b691bc1797',1,'xiApiPlusOcv.hpp']]],
+  ['xi_5fprm_5fcam_5fsimulators_5fcount',['XI_PRM_CAM_SIMULATORS_COUNT',['../xi_api_plus_ocv_8hpp.html#a2232c269c744f775246984131508b518',1,'xiApiPlusOcv.hpp']]],
+  ['xi_5fprm_5fdevice_5fid',['XI_PRM_DEVICE_ID',['../xi_api_plus_ocv_8hpp.html#a27d88dbe04a5f14d11f4775b548eaab1',1,'xiApiPlusOcv.hpp']]],
+  ['xi_5fprm_5fdevice_5funit_5fregister_5fselector',['XI_PRM_DEVICE_UNIT_REGISTER_SELECTOR',['../xi_api_plus_ocv_8hpp.html#abc44e5abbfc3cf02586e5ad5e50f7ca6',1,'xiApiPlusOcv.hpp']]],
+  ['xi_5fprm_5fdevice_5funit_5fregister_5fvalue',['XI_PRM_DEVICE_UNIT_REGISTER_VALUE',['../xi_api_plus_ocv_8hpp.html#a9861b93b71c9a140d78da56049587065',1,'xiApiPlusOcv.hpp']]],
+  ['xi_5fprm_5fdevice_5funit_5fselector',['XI_PRM_DEVICE_UNIT_SELECTOR',['../xi_api_plus_ocv_8hpp.html#a28691539f3e123e8384230a375b859fd',1,'xiApiPlusOcv.hpp']]],
+  ['xi_5fprm_5fextended_5ffeature',['XI_PRM_EXTENDED_FEATURE',['../xi_api_plus_ocv_8hpp.html#a46c227c7fe2779f79f8e786ed4b7e903',1,'xiApiPlusOcv.hpp']]],
+  ['xi_5fprm_5fextended_5ffeature_5fselector',['XI_PRM_EXTENDED_FEATURE_SELECTOR',['../xi_api_plus_ocv_8hpp.html#a4189fddbcc860d0c7cc95e1f780e6ec2',1,'xiApiPlusOcv.hpp']]],
+  ['xi_5fprm_5fimage_5fcorrection_5fselector',['XI_PRM_IMAGE_CORRECTION_SELECTOR',['../xi_api_plus_ocv_8hpp.html#ade22f05a34d5e3589fedc9b2c8ec9c0d',1,'xiApiPlusOcv.hpp']]],
+  ['xi_5fprm_5fimage_5fcorrection_5fvalue',['XI_PRM_IMAGE_CORRECTION_VALUE',['../xi_api_plus_ocv_8hpp.html#a5cf31eb9b372ad56c680597d836bd9c2',1,'xiApiPlusOcv.hpp']]],
+  ['xi_5fprm_5flens_5fcomm_5fdata',['XI_PRM_LENS_COMM_DATA',['../xi_api_plus_ocv_8hpp.html#aa238aefe056bc7b6df9cdc9893172661',1,'xiApiPlusOcv.hpp']]],
+  ['xi_5fprm_5freset_5fusb_5fif_5fbootloader',['XI_PRM_RESET_USB_IF_BOOTLOADER',['../xi_api_plus_ocv_8hpp.html#a3b95a50b1340bf9728c08a74aa5c1681',1,'xiApiPlusOcv.hpp']]],
+  ['xi_5fprm_5fsensor_5fline_5fperiod',['XI_PRM_SENSOR_LINE_PERIOD',['../xi_api_plus_ocv_8hpp.html#ab4f7147ccf562568ba752dd3c3427e21',1,'xiApiPlusOcv.hpp']]],
+  ['xiapiplusdp',['xiAPIPlusDP',['../xi_api_plus_ocv_8hpp.html#a116213ac5e9677b7fd1def5905ed01c8',1,'xiApiPlusOcv.hpp']]]
+];

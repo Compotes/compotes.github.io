@@ -1,0 +1,18 @@
+digraph "init_bluetooth_client"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node6 [label="init_bluetooth_client",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node6 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="init_client",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$bluetooth__client_8cpp.html#ab646b6701d7cd7c0f68ac818c54c4947"];
+  Node7 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="bluetooth_read_thread",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$bluetooth__server_8cpp.html#a72701b7f976ba2a213457d628ad25165"];
+  Node6 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="bluetooth_read",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$bluetooth__client_8cpp.html#a07b49799f7c0b298f84ac16b406573ab"];
+  Node6 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="bluetooth_write_thread",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$bluetooth__server_8cpp.html#a9cb4ac136056dbad3c8406acc44578c8"];
+  Node6 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="bluetooth_write",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$bluetooth__client_8cpp.html#a9a4e63886b4f212d57aed54c7d3a9a95"];
+}

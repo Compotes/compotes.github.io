@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['go',['go',['../_server_8cpp.html#aee8191c767bcded411aa8c5bd8581ce2',1,'Server.cpp']]],
+  ['goal',['goal',['../_camera_8cpp.html#abbf01cc8d0947c01d75443091ec5b84d',1,'Camera.cpp']]],
+  ['goal_5fheight',['goal_height',['../_camera_8cpp.html#a9c4d07c7b81fd6217df5f6c7ec42047b',1,'goal_height():&#160;Camera.cpp'],['../_camera_8hpp.html#a9c4d07c7b81fd6217df5f6c7ec42047b',1,'goal_height():&#160;Camera.cpp']]],
+  ['goal_5fload_5fsetter',['goal_load_setter',['../_camera_8cpp.html#a85ac949a685bc23d127d0726925eb828',1,'Camera.cpp']]],
+  ['goal_5fvisible',['goal_visible',['../_camera_8cpp.html#a2c2eea6929faaceeb663b9359ca4da9e',1,'goal_visible():&#160;Camera.cpp'],['../_camera_8hpp.html#a2c2eea6929faaceeb663b9359ca4da9e',1,'goal_visible():&#160;Camera.cpp']]],
+  ['goal_5fwidth',['goal_width',['../_camera_8cpp.html#a13d0ac6df77c26741f96e0c1f82f7e24',1,'goal_width():&#160;Camera.cpp'],['../_camera_8hpp.html#a13d0ac6df77c26741f96e0c1f82f7e24',1,'goal_width():&#160;Camera.cpp']]],
+  ['goal_5fx',['goal_x',['../_camera_8cpp.html#a3984f75be4d7718fb58f30155647ce7f',1,'goal_x():&#160;Camera.cpp'],['../_camera_8hpp.html#a3984f75be4d7718fb58f30155647ce7f',1,'goal_x():&#160;Camera.cpp']]],
+  ['goal_5fy',['goal_y',['../_camera_8cpp.html#adf9af32de2c325e52e714b613c020ac1',1,'goal_y():&#160;Camera.cpp'],['../_camera_8hpp.html#adf9af32de2c325e52e714b613c020ac1',1,'goal_y():&#160;Camera.cpp']]],
+  ['goalcontourcolor',['goalContourColor',['../_camera_8cpp.html#ac31af0fcf2254135b7ef912d7bff70e7',1,'Camera.cpp']]],
+  ['goalcontours',['goalContours',['../_camera_8cpp.html#a399ace0084f4233860a8cd0473305683',1,'Camera.cpp']]],
+  ['goaldilated',['goalDilated',['../_camera_8cpp.html#a7cd540d371c37b36d84a7604947a9737',1,'Camera.cpp']]],
+  ['goaldilatemat',['goalDilateMat',['../_camera_8cpp.html#a827bc941c2cc6c47bfbc78e3f82bc6b3',1,'Camera.cpp']]],
+  ['goalerodemat',['goalErodeMat',['../_camera_8cpp.html#a45acf572b8e952c8d61f6db74dfb617d',1,'Camera.cpp']]],
+  ['goalhierarchy',['goalHierarchy',['../_camera_8cpp.html#acd2a048fe03f973c04e61cb41c492d6d',1,'Camera.cpp']]],
+  ['goalinrangeparam',['goalInRangeParam',['../_camera_8cpp.html#ad3930f2576b1e3d651511c5531ec2e01',1,'Camera.cpp']]],
+  ['goalmarker',['goalMarker',['../_camera_8cpp.html#a05ab4a0fdd3eeb73673f63a6e8b2ee93',1,'Camera.cpp']]],
+  ['goalmat',['goalMat',['../_camera_8cpp.html#a37c8b45e365fd804700fbeef5cd6bc56',1,'Camera.cpp']]],
+  ['gpio_5fdir',['GPIO_DIR',['../_g_p_i_o_8hpp.html#ab04d3c50ab41eb710f8c1e7d68dd2142',1,'GPIO.hpp']]],
+  ['green_5ffile',['GREEN_FILE',['../_camera_8cpp.html#aa7b65f3441b155d7dc79cde0cc7da501',1,'Camera.cpp']]],
+  ['greendilated',['greenDilated',['../_camera_8cpp.html#aa67a5354d32071ecca7b1a8b87651106',1,'Camera.cpp']]],
+  ['greendilatemat',['greenDilateMat',['../_camera_8cpp.html#ac13d3c7037667a9122171e406ee907f4',1,'Camera.cpp']]],
+  ['greenerodemat',['greenErodeMat',['../_camera_8cpp.html#af36cdd3f041537d5f5c61e9146115c99',1,'Camera.cpp']]],
+  ['greeninrangeparam',['greenInRangeParam',['../_camera_8cpp.html#ac0bb7621b79ae7b8edb149a1fcdeba1e',1,'Camera.cpp']]]
+];

@@ -1,0 +1,27 @@
+digraph "init_compass"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node11 [label="init_compass",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node11 -> Node12 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="update_compass",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_compass_8cpp.html#a464c3e13e8fe37ae76144fc4450985e7"];
+  Node12 -> Node13 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="compass_reset",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_compass_8cpp.html#a95ac5ce43283b1e056a3ebe57d06666f"];
+  Node13 -> Node14 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="RTIMU::createIMU",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_r_t_i_m_u.html#ad1a91c52dfed6b9c1bbdde5e013eba93"];
+  Node13 -> Node15 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 [label="RTIMUBNO055::IMUInit",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_r_t_i_m_u_b_n_o055.html#a7b9e34a44b50e0b83da00cb7edc508eb"];
+  Node13 -> Node16 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node16 [label="RTIMU::setSlerpPower",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_r_t_i_m_u.html#acbf9a979fb1fa49000dd60d347040e10"];
+  Node13 -> Node17 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node17 [label="RTIMU::setGyroEnable",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_r_t_i_m_u.html#aef35b17eb528a14e99bf0e2401b294a1"];
+  Node13 -> Node18 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node18 [label="RTIMU::setAccelEnable",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_r_t_i_m_u.html#ab6212cd4cc221d3d5306ff8979d6357e"];
+  Node13 -> Node19 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node19 [label="RTIMU::setCompassEnable",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_r_t_i_m_u.html#aa6402af320a3c728bfcfa22a9357f3fe"];
+  Node12 -> Node20 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node20 [label="RTIMUBNO055::IMURead",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_r_t_i_m_u_b_n_o055.html#aad628604075ad2663bb717f95089f245"];
+  Node12 -> Node21 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node21 [label="RTIMU::getIMUData",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_r_t_i_m_u.html#a92d581cbd607d144228093e6e4157526"];
+}

@@ -1,0 +1,15 @@
+digraph "xiAPIplusCameraOcv::GetNextImageOcvIpl"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node17 [label="xiAPIplusCameraOcv\l::GetNextImageOcvIpl",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node17 -> Node18 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node18 [label="xiAPIplus_Camera::GetNext\lImage",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxi_a_p_iplus___camera.html#ac6fb4893c456afe5f4f59b3311c83bcd"];
+  Node18 -> Node19 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node19 [label="xiAPIplus_Image::GetXI_IMG",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxi_a_p_iplus___image.html#af3374e162ff09d2e2c23f197871d55c4"];
+  Node17 -> Node20 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node20 [label="xiAPIplusCameraOcv\l::ConvertOcvIpl",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxi_a_p_iplus_camera_ocv.html#a63d12d5d6cce9298f8e715324afab177"];
+  Node20 -> Node21 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node21 [label="xiAPIplus_Image::GetPixels",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxi_a_p_iplus___image.html#ac606d091a654bb3fbb359849f0754dba"];
+}

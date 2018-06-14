@@ -1,0 +1,41 @@
+digraph "Camera.hpp"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node32 [label="Camera.hpp",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node32 -> Node33 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node33 [label="bluetooth_client.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$bluetooth__client_8hpp.html"];
+  Node33 -> Node34 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node34 [label="bluetooth_client.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$bluetooth__client_8cpp.html"];
+  Node33 -> Node35 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node35 [label="Serial.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_serial_8hpp.html"];
+  Node35 -> Node33 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node35 -> Node36 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node36 [label="lines.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$lines_8hpp.html"];
+  Node36 -> Node35 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node36 -> Node37 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node37 [label="Server.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_server_8hpp.html"];
+  Node37 -> Node38 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node38 [label="bluetooth_server.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$bluetooth__server_8hpp.html"];
+  Node38 -> Node39 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node39 [label="bluetooth_server.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$bluetooth__server_8cpp.html"];
+  Node38 -> Node40 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node40 [label="main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$main_8cpp.html"];
+  Node37 -> Node40 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node37 -> Node41 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node41 [label="Server.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_server_8cpp.html"];
+  Node36 -> Node42 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node42 [label="lines.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$lines_8cpp.html"];
+  Node35 -> Node37 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node35 -> Node38 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node35 -> Node40 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node35 -> Node43 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node43 [label="Serial.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_serial_8cpp.html"];
+  Node33 -> Node38 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node33 -> Node40 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node32 -> Node38 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node32 -> Node37 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node32 -> Node44 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node44 [label="Camera.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_camera_8cpp.html"];
+  Node32 -> Node40 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

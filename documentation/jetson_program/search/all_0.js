@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['a',['A',['../_server_8cpp.html#a44afd0a4f3c29d4df9d48718607ab2fb',1,'Server.cpp']]],
+  ['acceltoeuler',['accelToEuler',['../class_r_t_vector3.html#a5a7b593331799d2b3236f23afecf815b',1,'RTVector3']]],
+  ['acceltoquaternion',['accelToQuaternion',['../class_r_t_vector3.html#a1a4c97a9faf0eb45f2283ece09d3566d',1,'RTVector3']]],
+  ['addr',['addr',['../bluetooth__client_8cpp.html#a3a7c5965c5cb16969a75b37e2183832d',1,'bluetooth_client.cpp']]],
+  ['ak8963_5faddress',['AK8963_ADDRESS',['../_r_t_i_m_u_defs_8h.html#a1ec3de258ab1151da16b56ebb4cfd83d',1,'RTIMUDefs.h']]],
+  ['ak8963_5fasax',['AK8963_ASAX',['../_r_t_i_m_u_defs_8h.html#a66032b6572950d4fb7044420a6beeee2',1,'RTIMUDefs.h']]],
+  ['ak8963_5fcntl',['AK8963_CNTL',['../_r_t_i_m_u_defs_8h.html#a9049064347064927059f71ea3843f986',1,'RTIMUDefs.h']]],
+  ['ak8963_5fdeviceid',['AK8963_DEVICEID',['../_r_t_i_m_u_defs_8h.html#afddcbb900cb8a2e8217914dd62271450',1,'RTIMUDefs.h']]],
+  ['ak8963_5fst1',['AK8963_ST1',['../_r_t_i_m_u_defs_8h.html#a0037cda572379e26ecad5030c64aaf10',1,'RTIMUDefs.h']]],
+  ['ak8975_5faddress',['AK8975_ADDRESS',['../_r_t_i_m_u_defs_8h.html#aaa6eb955e77ef387211989d09037fbd9',1,'RTIMUDefs.h']]],
+  ['ak8975_5fasax',['AK8975_ASAX',['../_r_t_i_m_u_defs_8h.html#a1a676d3ead2040fb12a71f16e1949a97',1,'RTIMUDefs.h']]],
+  ['ak8975_5fcntl',['AK8975_CNTL',['../_r_t_i_m_u_defs_8h.html#a805585bc606e19aae5d8e69f63844a2b',1,'RTIMUDefs.h']]],
+  ['ak8975_5fdeviceid',['AK8975_DEVICEID',['../_r_t_i_m_u_defs_8h.html#a2bf8fdb384ba4c9e27938d45a57466ea',1,'RTIMUDefs.h']]],
+  ['ak8975_5fst1',['AK8975_ST1',['../_r_t_i_m_u_defs_8h.html#a21c38e3daec38aad732be381c63ddae1',1,'RTIMUDefs.h']]],
+  ['arguments',['arguments',['../_server_8cpp.html#a916296d8a69c66a2aeee3609dd01ac1f',1,'Server.cpp']]],
+  ['attack_5fangle_5ftolerance',['ATTACK_ANGLE_TOLERANCE',['../main_8cpp.html#a5478a71cf158d4182dd57902dd9c035f',1,'main.cpp']]],
+  ['attack_5fblue_5fgoal',['attack_blue_goal',['../_camera_8cpp.html#a3a8940e5b71c7e13121f3943b6e28487',1,'Camera.cpp']]],
+  ['azimuth',['azimuth',['../structdata.html#a93d6032e813f580f1dc502a92957db66',1,'data::azimuth()'],['../main_8cpp.html#a866e78e12cb32dcaf1ded89bda8be8f5',1,'azimuth():&#160;main.cpp']]]
+];
