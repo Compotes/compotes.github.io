@@ -1,0 +1,5 @@
+<map id="set_motor_speed" name="set_motor_speed">
+<area shape="rect" id="node2" href="$d0/d29/main_8c.html#a2e9841c15748569ac55276dca4f1d931" title="set_dribler_speed" alt="" coords="193,5,317,32"/>
+<area shape="rect" id="node4" href="$d0/d29/main_8c.html#a311c1441d1f39ba3cbd59233b27defee" title="correct_motors_speeds" alt="" coords="176,56,335,83"/>
+<area shape="rect" id="node3" href="$d0/d29/main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="383,31,433,57"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="get_compass_values" name="get_compass_values">
+<area shape="rect" id="node2" href="$d6/dfb/compass_8c.html#a5c9cf0ebd5d80b86c466c8751fd2f067" title="start2" alt="" coords="199,87,253,114"/>
+<area shape="rect" id="node3" href="$d6/dfb/compass_8c.html#a72cd5f370ed18af2ab3c393bae230fe5" title="clean_serial" alt="" coords="508,87,599,114"/>
+<area shape="rect" id="node4" href="$d6/dfb/compass_8c.html#a96555605053c906ad719d0b91b40d926" title="read_one" alt="" coords="343,37,418,63"/>
+<area shape="rect" id="node5" href="$d6/dfb/compass_8c.html#a5143fc016ea0d81b5d312f6d818b9797" title="write" alt="" coords="355,87,406,114"/>
+<area shape="rect" id="node6" href="$d6/dfb/compass_8c.html#a48fc591d3c9467ecd16f209fa81819a5" title="set_calibration_values2" alt="" coords="301,138,460,165"/>
+</map>

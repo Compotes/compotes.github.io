@@ -1,0 +1,13 @@
+digraph "THD_FUNCTION"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="THD_FUNCTION",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="send_to_main_mailbox",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$config_8c.html#a91455302c985b34a4366824d6ea26296"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="calibration_memory",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$lines_8c.html#a08fd13feb3a88e9d81246b478c5794a2"];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="THD_WORKING_AREA",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$lines_8c.html#ad3c83bae44656bfb6d50378c02651e68"];
+}

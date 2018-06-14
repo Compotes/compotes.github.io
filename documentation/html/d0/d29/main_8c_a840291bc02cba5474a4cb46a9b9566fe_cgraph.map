@@ -1,0 +1,29 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$d3/d95/config_8c.html#a916f2adc2080b4fe88034086d107a8dc" title="board_init" alt="" coords="145,31,223,57"/>
+<area shape="rect" id="node5" href="$d6/d36/leds_8c.html#a67cfc3137a465e560792490e81365254" title="leds_init" alt="" coords="149,81,219,108"/>
+<area shape="rect" id="node6" href="$d6/d9c/group___jetcom.html#ga88157d4156c0e166b39eb0115e628ccd" title="Init of all 3 Jetson processing threads:" alt="" coords="143,132,225,159"/>
+<area shape="rect" id="node7" href="$d6/de4/motor_8c.html#abad32bfc46c9f31ba81955775611bd21" title="motors_init" alt="" coords="141,183,227,209"/>
+<area shape="rect" id="node8" href="$d8/d27/lines_8c.html#ac85e8681446f96a52928078bf7509172" title="line_init" alt="" coords="151,233,217,260"/>
+<area shape="rect" id="node9" href="$de/d81/ultrasonic_8c.html#ad9dcf04da9a20dd292b203bafdafc999" title="ultrasonic_init" alt="" coords="133,284,235,311"/>
+<area shape="rect" id="node10" href="$d8/d27/lines_8c.html#a1024d7b1696d0278ae4371e4956115ba" title="check_line" alt="" coords="142,335,226,361"/>
+<area shape="rect" id="node11" href="$d6/d9c/group___jetcom.html#ga18e042593e9c390b507925a5a030a9bd" title="Send message to Jetson save thread which load movement values from jetson to main variables..." alt="" coords="121,385,247,412"/>
+<area shape="rect" id="node13" href="$d3/d95/config_8c.html#a2cb645ea77addcd538b7ebe551d91e54" title="check_main_mailbox" alt="" coords="112,436,256,463"/>
+<area shape="rect" id="node14" href="$d6/d36/leds_8c.html#a6179cbd71d89b9e61a04eeb414a9b82e" title="led_command" alt="" coords="133,537,235,564"/>
+<area shape="rect" id="node16" href="$d6/d9c/group___jetcom.html#ga51a644554af38ba2d9fc604b95d2b356" title="Send message to Jetson write thread. " alt="" coords="138,487,230,513"/>
+<area shape="rect" id="node17" href="$d1/de0/camera_8c.html#acff47a4fe16715fbb7f8479e31d02bea" title="get_start" alt="" coords="147,588,221,615"/>
+<area shape="rect" id="node18" href="$d0/d29/main_8c.html#a3975fe0fc4014fc9d1995e5aa4148cc9" title="set_movement" alt="" coords="130,639,238,665"/>
+<area shape="rect" id="node20" href="$d0/d29/main_8c.html#a311c1441d1f39ba3cbd59233b27defee" title="correct_motors_speeds" alt="" coords="105,689,263,716"/>
+<area shape="rect" id="node24" href="$d0/d29/main_8c.html#a3c7ada13bc7d8ed5e819910da74bf9cd" title="motors_off" alt="" coords="142,740,226,767"/>
+<area shape="rect" id="node25" href="$d0/d29/main_8c.html#a2e9841c15748569ac55276dca4f1d931" title="set_dribler_speed" alt="" coords="122,791,246,817"/>
+<area shape="rect" id="node26" href="$d6/dd7/kicker_8c.html#a92c2f92c3f13f1d49ab117be6e1d4ba4" title="i_have_ball" alt="" coords="141,841,227,868"/>
+<area shape="rect" id="node27" href="$d6/dd7/kicker_8c.html#a218de120934ca1ff3f92541186a9639e" title="kick" alt="" coords="161,892,207,919"/>
+<area shape="rect" id="node28" href="$d6/de4/motor_8c.html#acf37021df332f242ee5a8eb1bfbc5ffd" title="change_motors_speeds" alt="" coords="104,943,264,969"/>
+<area shape="rect" id="node3" href="$d3/d95/config_8c.html#a0c488362b5f50e5e3afe84025d4ee02a" title="set_pins" alt="" coords="360,5,431,32"/>
+<area shape="rect" id="node4" href="$d3/d95/config_8c.html#ad8004746fd6531fe465c22159038e7aa" title="init_drivers" alt="" coords="353,56,438,83"/>
+<area shape="rect" id="node12" href="$d6/d9c/group___jetcom.html#ga41766996a8eb583257bfe530b2173938" title="THD_WORKING_AREA" alt="" coords="312,436,479,463"/>
+<area shape="rect" id="node15" href="$d6/d36/leds_8c.html#a725d7fbbb81187a019aad8e3982ab69b" title="THD_WORKING_AREA" alt="" coords="312,537,479,564"/>
+<area shape="rect" id="node19" href="$d0/d29/main_8c.html#a0754b72d0497142deb6a4d62122d3bc8" title="sinn" alt="" coords="372,639,419,665"/>
+<area shape="rect" id="node21" href="$d8/d27/lines_8c.html#afd7aa3a5c0f491f6b479f21676e5853e" title="max" alt="" coords="372,689,419,716"/>
+<area shape="rect" id="node22" href="$d0/d29/main_8c.html#af586227ea2e16a64bf50f666a9ab5d34" title="abs_value_int" alt="" coords="344,740,447,767"/>
+<area shape="rect" id="node23" href="$d0/d29/main_8c.html#a99b9c72348b16bc5b9bef7765cc29002" title="set_motor_speed" alt="" coords="334,791,457,817"/>
+</map>

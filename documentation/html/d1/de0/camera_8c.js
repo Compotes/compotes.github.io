@@ -1,0 +1,25 @@
+var camera_8c =
+[
+    [ "CAMERA_SERIAL", "d1/de0/camera_8c.html#afa0cb537652402748baa6ed8691a1686", null ],
+    [ "MAIN", "d1/de0/camera_8c.html#a34b04bd23b07b485921a728ad0805ac4", null ],
+    [ "READ", "d1/de0/camera_8c.html#ada74e7db007a68e763f20c17f2985356", null ],
+    [ "camera_init", "d1/de0/camera_8c.html#a0ac4e7d0c0211d8c79785bab28c212bd", null ],
+    [ "get_ball_degree", "d1/de0/camera_8c.html#ab92090f3f8d244ee38faa12db9de7a42", null ],
+    [ "get_ball_distance", "d1/de0/camera_8c.html#afb0326bb0e29371df3239fb5e4a4163f", null ],
+    [ "get_camera_values", "d1/de0/camera_8c.html#a3d5f3ccb2c638f5c0bf52e414de13336", null ],
+    [ "get_goal_degree", "d1/de0/camera_8c.html#aee0b6fc9ffc68dded80bec00b8f4a70c", null ],
+    [ "get_goal_distance", "d1/de0/camera_8c.html#a8788bc1f7116f98a8ec49fdf9defcdfc", null ],
+    [ "get_shooting_event", "d1/de0/camera_8c.html#ad67ad394ee7b9f0f7e6ac5451ead38b9", null ],
+    [ "get_start", "d1/de0/camera_8c.html#acff47a4fe16715fbb7f8479e31d02bea", null ],
+    [ "process_value", "d1/de0/camera_8c.html#ad940d7c7a2d8724f332eef9c7aab49d1", null ],
+    [ "THD_FUNCTION", "d1/de0/camera_8c.html#a2c2393c1d500c70e297c6c1c0ce4d1b4", null ],
+    [ "THD_FUNCTION", "d1/de0/camera_8c.html#a902c87a140761b42c5e6bb5a997a2baf", null ],
+    [ "THD_WORKING_AREA", "d1/de0/camera_8c.html#ada7c8258fe735585218481eb04975a06", null ],
+    [ "THD_WORKING_AREA", "d1/de0/camera_8c.html#a5b278043319a9802095608b2ef0a3aa8", null ],
+    [ "camera_actual_values", "d1/de0/camera_8c.html#a82b02c445cc0c85d41bbb71794e1b5e6", null ],
+    [ "camera_process_thread", "d1/de0/camera_8c.html#af55135c646c587ce69eabc54f8297dd1", null ],
+    [ "camera_read_thread", "d1/de0/camera_8c.html#ae47ee2d9cc5c1f127e0d623e0b826821", null ],
+    [ "camera_read_values", "d1/de0/camera_8c.html#a7d2a6036fcf733486d47db6b76eed104", null ],
+    [ "camera_values", "d1/de0/camera_8c.html#a7e78b0a0b12664cb7bb4404bf268d4ed", null ],
+    [ "current_value", "d1/de0/camera_8c.html#ab5abf2e952168fb822b293d8d683cf51", null ]
+];

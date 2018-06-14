@@ -1,0 +1,9 @@
+<map id="write" name="write">
+<area shape="rect" id="node2" href="$d2/db8/compass_8h.html#aedc96a40e844bc2efc8bbef1b0782702" title="start" alt="" coords="155,5,203,32"/>
+<area shape="rect" id="node4" href="$d2/db8/compass_8h.html#a5c9cf0ebd5d80b86c466c8751fd2f067" title="start2" alt="" coords="152,56,207,83"/>
+<area shape="rect" id="node8" href="$d2/db8/compass_8h.html#a16d6211c4bf8cf4baac1e14a2625a8ba" title="get_calibration_values" alt="" coords="104,107,255,133"/>
+<area shape="rect" id="node3" href="$de/d81/ultrasonic_8c.html#aececebedc97470def0a77a59a414eefc" title="THD_FUNCTION" alt="" coords="312,5,439,32"/>
+<area shape="rect" id="node5" href="$d2/db8/compass_8h.html#a8dec46d68222e3753f9e896cb89f2eff" title="compass_init" alt="" coords="326,56,425,83"/>
+<area shape="rect" id="node6" href="$d2/db8/compass_8h.html#a3c81df6357fd37aacfabdccfbb31e509" title="get_compass_values" alt="" coords="303,107,448,133"/>
+<area shape="rect" id="node7" href="$d6/dfb/compass_8c.html#a9cc2707570c16b209076e4a0bf6a4ec2" title="THD_FUNCTION" alt="" coords="496,107,623,133"/>
+</map>

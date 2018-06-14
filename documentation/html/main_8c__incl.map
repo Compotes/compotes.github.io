@@ -1,0 +1,11 @@
+<map id="/home/krtko/robocup_2018/robocup_2018/main.c" name="/home/krtko/robocup_2018/robocup_2018/main.c">
+<area shape="rect" id="node5" href="$camera_8h.html" title="camera.h" alt="" coords="196,95,272,121"/>
+<area shape="rect" id="node6" href="$leds_8h.html" title="leds.h" alt="" coords="513,244,570,271"/>
+<area shape="rect" id="node7" href="$kicker_8h.html" title="kicker.h" alt="" coords="65,169,133,196"/>
+<area shape="rect" id="node9" href="$config_8h.html" title="config.h" alt="" coords="849,169,917,196"/>
+<area shape="rect" id="node10" href="$compass_8h.html" title="compass.h" alt="" coords="372,95,458,121"/>
+<area shape="rect" id="node11" href="$lines_8h.html" title="lines.h" alt="" coords="598,95,658,121"/>
+<area shape="rect" id="node12" href="$motor_8h.html" title="motor.h" alt="" coords="758,169,824,196"/>
+<area shape="rect" id="node13" href="$jetson_8h.html" title="jetson.h" alt="" coords="665,169,733,196"/>
+<area shape="rect" id="node14" href="$dip__switch_8h.html" title="dip_switch.h" alt="" coords="140,244,234,271"/>
+</map>

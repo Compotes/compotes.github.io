@@ -1,0 +1,7 @@
+<map id="max" name="max">
+<area shape="rect" id="node2" href="$lines_8h.html#ab9691f774da5c34484a5b6332961e2b1" title="calculation_of_motor\l_speeds" alt="" coords="108,5,251,47"/>
+<area shape="rect" id="node5" href="$main_8c.html#a9bbc717fa055c1a1ae86103421424a2e" title="correct_motors_speeds" alt="" coords="100,71,259,98"/>
+<area shape="rect" id="node3" href="$lines_8h.html#a12682405cf23ab5083a2f15b8f47240e" title="determine_avoiding\l_direction" alt="" coords="307,5,441,47"/>
+<area shape="rect" id="node4" href="$lines_8c.html#a0f606770107548ab4932d64e0c452f92" title="THD_FUNCTION" alt="" coords="489,13,616,39"/>
+<area shape="rect" id="node6" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="349,71,399,98"/>
+</map>

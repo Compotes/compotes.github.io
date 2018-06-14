@@ -1,0 +1,6 @@
+<map id="read_one" name="read_one">
+<area shape="rect" id="node2" href="$compass_8h.html#a5c9cf0ebd5d80b86c466c8751fd2f067" title="start2" alt="" coords="128,31,183,57"/>
+<area shape="rect" id="node3" href="$compass_8h.html#a8dec46d68222e3753f9e896cb89f2eff" title="compass_init" alt="" coords="254,5,353,32"/>
+<area shape="rect" id="node4" href="$compass_8h.html#a3c81df6357fd37aacfabdccfbb31e509" title="get_compass_values" alt="" coords="231,56,376,83"/>
+<area shape="rect" id="node5" href="$compass_8c.html#a9cc2707570c16b209076e4a0bf6a4ec2" title="THD_FUNCTION" alt="" coords="424,56,551,83"/>
+</map>

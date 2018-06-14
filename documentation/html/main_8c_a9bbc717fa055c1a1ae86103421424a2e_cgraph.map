@@ -1,0 +1,5 @@
+<map id="correct_motors_speeds" name="correct_motors_speeds">
+<area shape="rect" id="node2" href="$lines_8c.html#afd7aa3a5c0f491f6b479f21676e5853e" title="max" alt="" coords="250,5,297,32"/>
+<area shape="rect" id="node3" href="$main_8c.html#af586227ea2e16a64bf50f666a9ab5d34" title="abs_value_int" alt="" coords="222,56,325,83"/>
+<area shape="rect" id="node4" href="$main_8c.html#a99b9c72348b16bc5b9bef7765cc29002" title="set_motor_speed" alt="" coords="212,107,335,133"/>
+</map>

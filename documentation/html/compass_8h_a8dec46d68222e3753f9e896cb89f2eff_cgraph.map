@@ -1,0 +1,7 @@
+<map id="compass_init" name="compass_init">
+<area shape="rect" id="node2" href="$compass_8c.html#a5c9cf0ebd5d80b86c466c8751fd2f067" title="start2" alt="" coords="152,57,207,84"/>
+<area shape="rect" id="node3" href="$compass_8c.html#a72cd5f370ed18af2ab3c393bae230fe5" title="clean_serial" alt="" coords="461,57,552,84"/>
+<area shape="rect" id="node4" href="$compass_8c.html#a96555605053c906ad719d0b91b40d926" title="read_one" alt="" coords="297,32,371,59"/>
+<area shape="rect" id="node5" href="$compass_8c.html#a5143fc016ea0d81b5d312f6d818b9797" title="write" alt="" coords="309,83,359,109"/>
+<area shape="rect" id="node6" href="$compass_8c.html#a48fc591d3c9467ecd16f209fa81819a5" title="set_calibration_values2" alt="" coords="255,133,413,160"/>
+</map>

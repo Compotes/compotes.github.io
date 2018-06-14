@@ -1,0 +1,4 @@
+<map id="board_init" name="board_init">
+<area shape="rect" id="node2" href="$d3/d95/config_8c.html#a0c488362b5f50e5e3afe84025d4ee02a" title="set_pins" alt="" coords="139,5,210,32"/>
+<area shape="rect" id="node3" href="$d3/d95/config_8c.html#ad8004746fd6531fe465c22159038e7aa" title="init_drivers" alt="" coords="132,56,217,83"/>
+</map>

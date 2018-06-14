@@ -1,0 +1,10 @@
+<map id="THD_FUNCTION" name="THD_FUNCTION">
+<area shape="rect" id="node2" href="$d6/dfb/compass_8c.html#a199139485dd181299bbd241ab86e3009" title="get_calibration_status" alt="" coords="395,5,544,32"/>
+<area shape="rect" id="node4" href="$d6/dfb/compass_8c.html#a3c81df6357fd37aacfabdccfbb31e509" title="get_compass_values" alt="" coords="191,56,336,83"/>
+<area shape="rect" id="node9" href="$d6/dfb/compass_8c.html#a5d4f257d37631349046498f944f42bd5" title="THD_WORKING_AREA" alt="" coords="180,107,347,133"/>
+<area shape="rect" id="node3" href="$d6/dfb/compass_8c.html#a72cd5f370ed18af2ab3c393bae230fe5" title="clean_serial" alt="" coords="799,132,889,159"/>
+<area shape="rect" id="node5" href="$d6/dfb/compass_8c.html#a5c9cf0ebd5d80b86c466c8751fd2f067" title="start2" alt="" coords="442,157,497,184"/>
+<area shape="rect" id="node6" href="$d6/dfb/compass_8c.html#a96555605053c906ad719d0b91b40d926" title="read_one" alt="" coords="634,157,709,184"/>
+<area shape="rect" id="node7" href="$d6/dfb/compass_8c.html#a5143fc016ea0d81b5d312f6d818b9797" title="write" alt="" coords="646,208,697,235"/>
+<area shape="rect" id="node8" href="$d6/dfb/compass_8c.html#a48fc591d3c9467ecd16f209fa81819a5" title="set_calibration_values2" alt="" coords="592,259,751,285"/>
+</map>

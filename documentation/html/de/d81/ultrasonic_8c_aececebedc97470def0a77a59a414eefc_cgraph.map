@@ -1,0 +1,9 @@
+<map id="THD_FUNCTION" name="THD_FUNCTION">
+<area shape="rect" id="node2" href="$d6/dfb/compass_8c.html#aedc96a40e844bc2efc8bbef1b0782702" title="start" alt="" coords="242,24,290,51"/>
+<area shape="rect" id="node6" href="$d3/d95/config_8c.html#a3450cbca1e628d33d92df36dc05fa7b5" title="check_ultrasonic_mailbox" alt="" coords="180,75,352,101"/>
+<area shape="rect" id="node7" href="$d6/d36/leds_8c.html#a6179cbd71d89b9e61a04eeb414a9b82e" title="led_command" alt="" coords="215,125,317,152"/>
+<area shape="rect" id="node3" href="$d6/dfb/compass_8c.html#a72cd5f370ed18af2ab3c393bae230fe5" title="clean_serial" alt="" coords="615,24,705,51"/>
+<area shape="rect" id="node4" href="$d6/dfb/compass_8c.html#a5143fc016ea0d81b5d312f6d818b9797" title="write" alt="" coords="458,24,509,51"/>
+<area shape="rect" id="node5" href="$d6/dfb/compass_8c.html#ad5a4644801cf3fee4d16f51bc383f260" title="set_calibration_values" alt="" coords="408,75,559,101"/>
+<area shape="rect" id="node8" href="$d6/d36/leds_8c.html#a725d7fbbb81187a019aad8e3982ab69b" title="THD_WORKING_AREA" alt="" coords="400,125,567,152"/>
+</map>

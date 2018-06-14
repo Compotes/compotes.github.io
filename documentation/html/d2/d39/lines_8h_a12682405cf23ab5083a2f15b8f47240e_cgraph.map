@@ -1,0 +1,5 @@
+<map id="determine_avoiding_direction" name="determine_avoiding_direction">
+<area shape="rect" id="node2" href="$d8/d27/lines_8c.html#ab9691f774da5c34484a5b6332961e2b1" title="calculation_of_motor\l_speeds" alt="" coords="188,23,331,65"/>
+<area shape="rect" id="node3" href="$d8/d27/lines_8c.html#afd7aa3a5c0f491f6b479f21676e5853e" title="max" alt="" coords="387,5,434,32"/>
+<area shape="rect" id="node4" href="$d8/d27/lines_8c.html#acfc3413e90fc67fd8cf6b14651ce0b92" title="abs_int" alt="" coords="379,56,443,83"/>
+</map>

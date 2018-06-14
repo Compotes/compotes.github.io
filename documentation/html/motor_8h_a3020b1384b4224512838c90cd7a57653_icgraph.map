@@ -1,0 +1,4 @@
+<map id="send_move_message" name="send_move_message">
+<area shape="rect" id="node2" href="$motor_8h.html#ad0582e74ad000120929932acdf3f9c1c" title="send_init_message" alt="" coords="203,5,337,32"/>
+<area shape="rect" id="node3" href="$motor_8c.html#a5fdf38ad786651887a68635317dbb3d7" title="THD_FUNCTION" alt="" coords="385,31,512,57"/>
+</map>

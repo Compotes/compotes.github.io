@@ -1,0 +1,4 @@
+<map id="send_init_message" name="send_init_message">
+<area shape="rect" id="node2" href="$d6/de4/motor_8c.html#a13f18709e2ed4cf4dd1f6d293facaf55" title="motor_blick" alt="" coords="218,5,307,32"/>
+<area shape="rect" id="node3" href="$d6/de4/motor_8c.html#a3020b1384b4224512838c90cd7a57653" title="send_move_message" alt="" coords="188,56,337,83"/>
+</map>
