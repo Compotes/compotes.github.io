@@ -19,17 +19,15 @@ body {
 }
 
 .gold-sponsors > img {
-    max-width: 45%;
+    max-width: 49%;
     background: white;
     margin-bottom: 5px;
 }
 
-.r1r {
-    min-height: 195px;
-}
-
-.r2r {
-    min-height: 120px;
+@media (max-width: 546px) {
+    .gold-sponsors > img {
+        max-width: 100%;
+    }
 }
 
 .sponsors > a {
