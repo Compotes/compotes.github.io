@@ -46,8 +46,28 @@ body {
     margin-right: 2%;
 }
 
+.yt-video {
+    height: 315px;
+}
+
+@media (max-width: 500px) {
+    .yt-video {
+        height: 200px;
+    }
+}
+
+@media (max-width: 350px) {
+    .yt-video {
+        height: 100px;
+    }
+}
+
 .robot-div {
     width: 100%;
+}
+
+.photo {
+    margin-top: 20px;
 }
 
 .robot-text {
